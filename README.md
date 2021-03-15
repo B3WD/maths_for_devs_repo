@@ -1,2 +1,2 @@
-# maths_for_devs_repo
-Final project and homeworks
+# Ray marching.
+## Going beyond 2D and rendering 3D fractals.
